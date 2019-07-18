@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Group#3_HW02</string>
+    <string name="textView_welcomeString">Welcome to Trivia App</string>
+    <string name="textView_parsingStatusString">Loading Trivia</string>
+    <string name="textView_parsingStatusFinal">Trivia Ready</string>
+    <string name="button_exitString">Exit</string>
+    <string name="button_start">Start Trivia</string>
+    <string name="textView_questionNumString">Q#</string>
+    <string name="textView_timerString">Time Left: XXX seconds</string>
+    <string name="textView_questionTitleString">Question Title</string>
+    <string name="button_quitTriviaString">Quit</string>
+    <string name="button_nextTriviaString">Next</string>
+    <string name="textView_imageProgressString">Loading Image</string>
+    <string name="textView_questionOptionString">Option</string>
+    <string name="textView_statsTitleString">Trivia Stats</string>
+    <string name="textView_correctAnsString">Correct Answers</string>
+    <string name="textView_percentString">%</string>
+    <string name="textView_finishString">Try again and see if you can get all the correct answers!</string>
+    <string name="button_quitStatsString">Quit</string>
+    <string name="button_tryAgainString">Try Again</string>
+</resources>
